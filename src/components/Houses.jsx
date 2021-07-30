@@ -1,5 +1,5 @@
 import React from 'react';
-import { Container, Grid, Image, Parag, H2, Status } from './Houses.styles';
+import { Container, Grid } from './Houses.styles';
 import Card from './Card'
 
 const Houses = () => {
